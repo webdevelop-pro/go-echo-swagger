@@ -1,4 +1,4 @@
-module github.com/go-common/go-echo-swagger
+module github.com/webdevelop-pro/go-echo-swagger
 
 go 1.20
 
